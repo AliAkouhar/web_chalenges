@@ -1,0 +1,27 @@
+html, body{
+    background-color: hsl(30, 54%, 90%);
+}
+
+.main-container{
+    background-color: hsl(0, 0%, 100%);
+0
+    align-items: center;
+    justify-content: center;
+}
+.main-container h1{
+    color:aliceblue
+}
+
+.Preparation-time{
+    background-color: hsl(330, 100%, 98%);
+}
+
+.preparation-header{
+    color: hsl(332, 51%, 32%);
+}
+
+
+.img{
+    width: 300px;
+    height: auto;
+}
